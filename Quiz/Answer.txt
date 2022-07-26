@@ -1,0 +1,18 @@
+Q1)  A. The program will display the output as: 3 
+Q2)  D. TestQuestion(int x , int y)
+Q3)  D. The program will throw a runtime exception.
+Q4)  A. Initialization blocks run every time a class is loaded
+Q5)  C. A class can extend any number of classes.
+Q6)  B. The program will display: Hi
+Q7)  B. The program will display: doMethod() a = 9 main() a = 9
+Q8)  C. The program will display the output as: 40
+Q9)  B. The program will display the output as: 2
+Q10) C. The program will generate a compilation error at the line marked as 3.
+Q11) A. It will produce the output as: equal 
+Q12) C. not true
+Q13) A. The program will display the output as: 10
+	10
+	10
+Q14)B. The program will generate compilation error 
+Q15)B. There is a default constructor, which takes arguments of the same type as the data members in order.
+Q16)B. It will produce the output as: 4
